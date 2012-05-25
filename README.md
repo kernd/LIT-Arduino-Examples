@@ -1,4 +1,4 @@
 Arduino-Code
 ============
 
-all code for controlling light suits - libraries and examples
+all example codes for controlling light suits
